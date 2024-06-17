@@ -1,0 +1,6 @@
+//first code in c++
+#include<iostream>
+void main(){
+    cout<<"Hello GitHub!"<<endl;
+    return 0;
+}
